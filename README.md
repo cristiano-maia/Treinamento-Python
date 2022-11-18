@@ -1,7 +1,10 @@
-# Treinamento Python
+
+# Treinamento Python 
+
 Treinamento básico, intermediário e avançado em python.
 
-Contéudo:
+
+**Contéudo:**
 
 1. [Comentários](aula_python/aula2.py)
 1. [Tipos Int e Float](aula_python/aula4.py)
@@ -14,4 +17,5 @@ Contéudo:
 1. [Precedência entre os operadores aritmeticos](aula_python/aula10.py)
 1. [Introdução às f-strings "formatação de strings"](aula_python/aula11.py)
 1. [Formatação de strings com o método format"](aula_python/aula12.py)
-1. [Usando a função INPUT para coletar dados do usuario"](aula_python/aula13.py)
+1. [Usando a função INPUT para coletar dados do usuario](aula_python/aula13.py)
+1. [Introdução aos blocos de código + if / elif / else (condicionais)](aula_python/aula14.py)
