@@ -19,3 +19,5 @@ Treinamento básico, intermediário e avançado em python.
 1. [Formatação de strings com o método format"](aula_python/aula12.py)
 1. [Usando a função INPUT para coletar dados do usuario](aula_python/aula13.py)
 1. [Introdução aos blocos de código + if / elif / else (condicionais)](aula_python/aula14.py)
+1. [If / elif / else Debug](aula_python/aula15.py)
+1. [Operadores relacionais de comparação](aula_python/aula16.py)
