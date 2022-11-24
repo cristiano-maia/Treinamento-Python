@@ -31,3 +31,4 @@ Treinamento básico, intermediário e avançado em python.
 1. [Introdução ao try e except](aula_python/aula24.py)
 1. [Variaveis, constates e complexidade de codigo](aula_python/aula25.py)
 1. [Flags, is, is not e None](aula_python/aula26.py)
+1. [Documentação, tipos built-in](aula_python/aula27.py)
