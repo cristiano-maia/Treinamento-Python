@@ -7,3 +7,4 @@ print('Nome: ',nome)
 print('Altura: ',altura)
 print('Peso: ',peso)
 print('IMC: ',imc)
+
